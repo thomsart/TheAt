@@ -4,7 +4,8 @@
 <p>Je dévelloppe cette application seul pour le plaisir de coder un projet ayant pour objectif de créer un 
 organizer dans l'esprit de ce qui existe déjà sur le marché. Le défi principal de ce projet est qu'il soit 
 full Python et ne fasse appel à aucune lib, framework ou BDD afin de voir tout simplement jusqu'ou peut on aller 
-sans le recours à d'autres outils.</p>
+sans le recours à d'autres outils. J'utilise donc TKinter pour ce projet parce qu'il ne faut pas non plus 
+deconner hein ?!</p>
 
 <h2>Kesako ?</h2>
 
